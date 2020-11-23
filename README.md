@@ -5,7 +5,7 @@
 
 #### Project Team
 * Yohe Moore, Elizabeth
-* Oleg Ryzhkov
+* Ryzhkov Oleg
 * Zalov, Renat
 
 
