@@ -16,6 +16,10 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/OlegRyzhkov2020/sql-challenge?label=Watch&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/OlegRyzhkov2020?label=Follow&style=social)
 
+## Project Presentation
+
+https://public.tableau.com/profile/oleg2035#!/vizhome/Dashboard-Side-Nav_16062573842670/Start
+
 
 ## Project Description
 
